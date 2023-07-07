@@ -16,7 +16,7 @@
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-<b>My Projects in university</b>
+<b>My Projects in university</b><br>
 <a href="https://github.com/YDaewon/VueNote">VueNote</a>
 <br>
 <br>
