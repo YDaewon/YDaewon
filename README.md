@@ -20,7 +20,7 @@
 <a href="https://github.com/YDaewon/N_Queen">N-Queens Problem</a><br>
 <a href="https://github.com/YDaewon/TETRIS">TETRIS</a><br>
 <a href="https://github.com/YDaewon/VueNote">VueNote</a><br>
-<a href="https://github.com/YDaewon/Cloud_Assemble">Cloud_Assemble</a><p> <----- Private</p><br>
+<a href="https://github.com/YDaewon/Cloud_Assemble">Cloud_Assemble(Private)</a><br>
 <br>
 <br>
 <br>
