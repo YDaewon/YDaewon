@@ -17,7 +17,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <b>My Projects in university</b><br>
-<a href="https://github.com/YDaewon/VueNote">VueNote</a>
+<a href="https://github.com/YDaewon/N_Queen">N-Queens Problem</a><br>
+<a href="https://github.com/YDaewon/TETRIS">TETRIS</a><br>
+<a href="https://github.com/YDaewon/VueNote">VueNote</a><br>
+<a href="https://github.com/YDaewon/Cloud_Assemble">Cloud_Assemble</a><p> <----- Private</p><br>
 <br>
 <br>
 <br>
