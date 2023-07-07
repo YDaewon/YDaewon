@@ -1,7 +1,7 @@
 <h1>2023-07-05   첫 깃허브 시작</h1>
 
 
-<h1>Skills</h1>
+#Skills
 <b>My Platforms + Languages</b><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
