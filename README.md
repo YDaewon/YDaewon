@@ -1,5 +1,9 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Ydaewon"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YDaewon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/YDaewon"
+  width="600"
+  height="300"
+/>
 </a>
 
 <div align=center>
