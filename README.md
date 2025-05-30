@@ -18,7 +18,7 @@
   - :raising_hand: I am a BackEnd Engineer from South Korea.
   - :fire: I aim to become a Web Engineer
   - :mortar_board: Bachelor of Computer Engineering, Kumoh Institute of Technology
-  - :gem: SSAFY 12th in progress
+  - :gem: SSAFY 12th in progress 
 
 <br>
 
