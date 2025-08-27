@@ -15,10 +15,10 @@
 </div>
 
   ## 👀 About Me
-  - :raising_hand: I am a BackEnd Engineer from South Korea.
-  - :fire: I aim to become a Web Engineer
-  - :mortar_board: Bachelor of Computer Engineering, Kumoh Institute of Technology
-  - :gem: SSAFY 12th in progress 
+  - 👋 Yang Daewon from South Korea
+  - 🔥 I am a developer who pursues both service value and stability.
+  - :mortar_board: B.S. in Computer Engineering, Kumoh Institute of Technology
+  - :gem: Completed Samsung Software Academy for Youth (SSAFY) 12th
 
 <br>
 
