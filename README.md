@@ -17,7 +17,7 @@
   ## 👀 About Me
   - 👋 Yang Daewon from South Korea
   - 🔥 I am a developer who pursues both service value and stability.
-  - :mortar_board: B.S. in Computer Engineering, Kumoh Institute of Technology
+  - :mortar_board: B.S. in Computer Engineering
   - :gem: Completed Samsung Software Academy for Youth (SSAFY) 12th
 
 <br>
